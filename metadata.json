@@ -1,0 +1,6 @@
+{
+  "name": "CampusCore",
+  "description": "Comprehensive college management system for students, faculty, academics, timetable, attendance, and finance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
